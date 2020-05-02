@@ -1,0 +1,29 @@
+{
+  "name": "the-classical-researcher-",
+  "version": "1.0.0",
+  "description": "A research app with a special audio feature \r ## User Story",
+  "main": "music.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimnana45/the-classical-researcher-.git"
+  },
+  "keywords": [],
+  "author": "Jovani Pink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimnana45/the-classical-researcher-/issues"
+  },
+  "homepage": "https://github.com/kimnana45/the-classical-researcher-#readme",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@types/jquery": "^3.3.36",
+    "parcel-bundler": "^1.12.4"
+  }
+}
